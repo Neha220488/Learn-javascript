@@ -123,7 +123,7 @@ if (true) {
 // document.getElementById("myButton").addEventListener("click", function handleClick() {
 //     console.log("Button clicked!");
 // });
-````markdown
+```
 ## Function Expressions
 
 **Q: What is a function expression and how does it differ from a function declaration?**
