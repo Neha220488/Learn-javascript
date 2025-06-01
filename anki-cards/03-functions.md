@@ -752,7 +752,7 @@ function createButtonHandlers() {
     
     return buttons;
 }
-````markdown
+```
 ## Higher-Order Functions
 
 **Q: What are higher-order functions and why are they important?**
